@@ -24,3 +24,12 @@ Salve as classes em arquivos .java separados.
 Compile e execute a classe SistemaDeControleFinanceiro.
 
 Este programa atende aos requisitos de um sistema de controle financeiro orientado a objetos, focado em registrar e monitorar as transações de um fundo comunitário.
+
+
+**Estrutura de Classes:**
+
+**Transacao:** Representa uma transação financeira (entrada ou saída).
+
+**FundoComunitario:** Gerencia as transações e o saldo do fundo comunitário.
+
+**SistemaDeControleFinanceiro:** Interface principal para executar o sistema.
